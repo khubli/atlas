@@ -1,0 +1,16 @@
+# Publishes the built app (dist/) as a static site on Cloudflare at https://atlas.khubli.in.
+# .github/workflows/deploy.yml does this after the tests pass on main; by hand:
+#   npm run build && npx wrangler deploy
+# There is no server code: each person's data stays in their own browser.
+# Running your own copy? Change the route below to your domain (docs/setup.md).
+name = "atlas-app"
+compatibility_date = "2026-09-01"
+
+# One address only. Browsers keep data per address, so a second URL for the same app
+# (workers.dev, previews) would look like an empty Atlas.
+routes = [{ pattern = "atlas.khubli.in", custom_domain = true }]
+workers_dev = false
+preview_urls = false
+
+[assets]
+directory = "./dist"

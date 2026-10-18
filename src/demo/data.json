@@ -1,0 +1,1815 @@
+{
+ "places": {
+  "home": {
+   "name": "Home",
+   "types": [],
+   "address": "Indiranagar, Bengaluru, Karnataka 560038, India",
+   "lat": 12.97194,
+   "lng": 77.64115,
+   "rating": null
+  },
+  "work": {
+   "name": "Office",
+   "types": [],
+   "address": "Whitefield, Bengaluru, Karnataka 560066, India",
+   "lat": 12.9698,
+   "lng": 77.7499,
+   "rating": null
+  },
+  "blr_airport": {
+   "name": "Kempegowda International Airport",
+   "types": [
+    "airport"
+   ],
+   "address": "KIAL Rd, Devanahalli, Bengaluru, Karnataka 560300, India",
+   "lat": 13.19864,
+   "lng": 77.7066,
+   "rating": 4.4
+  },
+  "blr_station": {
+   "name": "KSR Bengaluru City Junction",
+   "types": [
+    "train_station"
+   ],
+   "address": "Gubbi Thotadappa Rd, Majestic, Bengaluru, Karnataka 560023, India",
+   "lat": 12.9777,
+   "lng": 77.5697,
+   "rating": 4.1
+  },
+  "cafe": {
+   "name": "Third Wave Coffee",
+   "types": [
+    "cafe",
+    "coffee_shop",
+    "food"
+   ],
+   "address": "12th Main Rd, Indiranagar, Bengaluru, Karnataka 560038, India",
+   "lat": 12.9708,
+   "lng": 77.641,
+   "rating": 4.3
+  },
+  "grocery": {
+   "name": "Nature's Basket",
+   "types": [
+    "grocery_store",
+    "supermarket",
+    "food"
+   ],
+   "address": "100 Feet Rd, Indiranagar, Bengaluru, Karnataka 560038, India",
+   "lat": 12.9785,
+   "lng": 77.6408,
+   "rating": 4.1
+  },
+  "gym": {
+   "name": "Cult Fitness",
+   "types": [
+    "gym",
+    "fitness_center"
+   ],
+   "address": "CMH Rd, Indiranagar, Bengaluru, Karnataka 560038, India",
+   "lat": 12.9783,
+   "lng": 77.6385,
+   "rating": 4.5
+  },
+  "cubbon": {
+   "name": "Cubbon Park",
+   "types": [
+    "park",
+    "tourist_attraction"
+   ],
+   "address": "Kasturba Rd, Bengaluru, Karnataka 560001, India",
+   "lat": 12.9763,
+   "lng": 77.5929,
+   "rating": 4.6
+  },
+  "lalbagh": {
+   "name": "Lalbagh Botanical Garden",
+   "types": [
+    "botanical_garden",
+    "park",
+    "tourist_attraction"
+   ],
+   "address": "Mavalli, Bengaluru, Karnataka 560004, India",
+   "lat": 12.9507,
+   "lng": 77.5848,
+   "rating": 4.5
+  },
+  "toit": {
+   "name": "Toit",
+   "types": [
+    "bar",
+    "restaurant"
+   ],
+   "address": "100 Feet Rd, Indiranagar, Bengaluru, Karnataka 560038, India",
+   "lat": 12.9791,
+   "lng": 77.6407,
+   "rating": 4.5
+  },
+  "mall": {
+   "name": "Phoenix Marketcity",
+   "types": [
+    "shopping_mall"
+   ],
+   "address": "Whitefield Rd, Mahadevapura, Bengaluru, Karnataka 560048, India",
+   "lat": 12.9957,
+   "lng": 77.6964,
+   "rating": 4.5
+  },
+  "pvr": {
+   "name": "PVR Phoenix Marketcity",
+   "types": [
+    "movie_theater"
+   ],
+   "address": "Phoenix Marketcity, Mahadevapura, Bengaluru, Karnataka 560048, India",
+   "lat": 12.9956,
+   "lng": 77.6966,
+   "rating": 4.4
+  },
+  "mtr": {
+   "name": "Mavalli Tiffin Rooms",
+   "types": [
+    "restaurant",
+    "food"
+   ],
+   "address": "Lalbagh Rd, Mavalli, Bengaluru, Karnataka 560004, India",
+   "lat": 12.9551,
+   "lng": 77.5856,
+   "rating": 4.4
+  },
+  "shivanasamudra": {
+   "name": "Shivanasamudra Falls",
+   "types": [
+    "tourist_attraction",
+    "natural_feature"
+   ],
+   "address": "Shivanasamudra, Mandya, Karnataka 571430, India",
+   "lat": 12.2945,
+   "lng": 77.1709,
+   "rating": 4.5
+  },
+  "talakadu": {
+   "name": "Talakadu Temples",
+   "types": [
+    "hindu_temple",
+    "place_of_worship",
+    "tourist_attraction"
+   ],
+   "address": "Talakadu, Mysuru, Karnataka 571122, India",
+   "lat": 12.1857,
+   "lng": 77.0256,
+   "rating": 4.4
+  },
+  "mysore_palace": {
+   "name": "Mysore Palace",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction",
+    "museum"
+   ],
+   "address": "Sayyaji Rao Rd, Agrahara, Mysuru, Karnataka 570001, India",
+   "lat": 12.3052,
+   "lng": 76.6552,
+   "rating": 4.7
+  },
+  "chamundi": {
+   "name": "Chamundeshwari Temple",
+   "types": [
+    "hindu_temple",
+    "place_of_worship"
+   ],
+   "address": "Chamundi Hill, Mysuru, Karnataka 570010, India",
+   "lat": 12.2724,
+   "lng": 76.6702,
+   "rating": 4.7
+  },
+  "brindavan": {
+   "name": "Brindavan Gardens",
+   "types": [
+    "garden",
+    "park",
+    "tourist_attraction"
+   ],
+   "address": "Krishnaraja Sagara, Mandya, Karnataka 571607, India",
+   "lat": 12.4216,
+   "lng": 76.573,
+   "rating": 4.3
+  },
+  "mysore_hotel": {
+   "name": "Royal Orchid Metropole",
+   "types": [
+    "hotel",
+    "lodging"
+   ],
+   "address": "Jhansi Lakshmi Bai Rd, Mysuru, Karnataka 570005, India",
+   "lat": 12.3093,
+   "lng": 76.6503,
+   "rating": 4.4
+  },
+  "mylari": {
+   "name": "Hotel Mylari",
+   "types": [
+    "restaurant",
+    "food"
+   ],
+   "address": "Nazarbad, Mysuru, Karnataka 570010, India",
+   "lat": 12.3012,
+   "lng": 76.6619,
+   "rating": 4.3
+  },
+  "abbey": {
+   "name": "Abbey Falls",
+   "types": [
+    "tourist_attraction",
+    "natural_feature"
+   ],
+   "address": "Madikeri, Karnataka 571201, India",
+   "lat": 12.4554,
+   "lng": 75.718,
+   "rating": 4.3
+  },
+  "rajas_seat": {
+   "name": "Raja's Seat",
+   "types": [
+    "park",
+    "tourist_attraction"
+   ],
+   "address": "Madikeri, Karnataka 571201, India",
+   "lat": 12.4186,
+   "lng": 75.7379,
+   "rating": 4.2
+  },
+  "coorg_stay": {
+   "name": "Coorg Heritage Homestay",
+   "types": [
+    "lodging",
+    "bed_and_breakfast"
+   ],
+   "address": "Madikeri, Karnataka 571201, India",
+   "lat": 12.43,
+   "lng": 75.73,
+   "rating": 4.6
+  },
+  "dubare": {
+   "name": "Dubare Elephant Camp",
+   "types": [
+    "tourist_attraction"
+   ],
+   "address": "Dubare, Kodagu, Karnataka 571234, India",
+   "lat": 12.3673,
+   "lng": 75.902,
+   "rating": 4.1
+  },
+  "golden_temple": {
+   "name": "Namdroling Monastery Golden Temple",
+   "types": [
+    "buddhist_temple",
+    "place_of_worship",
+    "tourist_attraction"
+   ],
+   "address": "Bylakuppe, Karnataka 571104, India",
+   "lat": 12.4307,
+   "lng": 75.9673,
+   "rating": 4.7
+  },
+  "jai_airport": {
+   "name": "Jaipur International Airport",
+   "types": [
+    "airport"
+   ],
+   "address": "Airport Rd, Sanganer, Jaipur, Rajasthan 302029, India",
+   "lat": 26.8242,
+   "lng": 75.8122,
+   "rating": 4.3
+  },
+  "amber": {
+   "name": "Amber Fort",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Devisinghpura, Amer, Jaipur, Rajasthan 302001, India",
+   "lat": 26.9855,
+   "lng": 75.8513,
+   "rating": 4.6
+  },
+  "hawa_mahal": {
+   "name": "Hawa Mahal",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Hawa Mahal Rd, Badi Choupad, Jaipur, Rajasthan 302002, India",
+   "lat": 26.9239,
+   "lng": 75.8267,
+   "rating": 4.5
+  },
+  "city_palace_jaipur": {
+   "name": "City Palace, Jaipur",
+   "types": [
+    "museum",
+    "historical_landmark"
+   ],
+   "address": "Tulsi Marg, Gangori Bazaar, Jaipur, Rajasthan 302002, India",
+   "lat": 26.9258,
+   "lng": 75.8237,
+   "rating": 4.5
+  },
+  "jantar_mantar": {
+   "name": "Jantar Mantar, Jaipur",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Gangori Bazaar, Jaipur, Rajasthan 302002, India",
+   "lat": 26.9248,
+   "lng": 75.8246,
+   "rating": 4.5
+  },
+  "nahargarh": {
+   "name": "Nahargarh Fort",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Krishna Nagar, Brahampuri, Jaipur, Rajasthan 302002, India",
+   "lat": 26.9373,
+   "lng": 75.8155,
+   "rating": 4.4
+  },
+  "lmb": {
+   "name": "Laxmi Mishthan Bhandar",
+   "types": [
+    "restaurant",
+    "food"
+   ],
+   "address": "Johari Bazar Rd, Jaipur, Rajasthan 302003, India",
+   "lat": 26.922,
+   "lng": 75.8233,
+   "rating": 4.0
+  },
+  "samode": {
+   "name": "Samode Haveli",
+   "types": [
+    "hotel",
+    "lodging"
+   ],
+   "address": "Gangapole, Jaipur, Rajasthan 302002, India",
+   "lat": 26.9318,
+   "lng": 75.8325,
+   "rating": 4.5
+  },
+  "chittorgarh": {
+   "name": "Chittorgarh Fort",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Chittorgarh, Rajasthan 312001, India",
+   "lat": 24.887,
+   "lng": 74.645,
+   "rating": 4.6
+  },
+  "city_palace_udaipur": {
+   "name": "City Palace, Udaipur",
+   "types": [
+    "museum",
+    "historical_landmark"
+   ],
+   "address": "Old City, Udaipur, Rajasthan 313001, India",
+   "lat": 24.5764,
+   "lng": 73.6835,
+   "rating": 4.6
+  },
+  "pichola": {
+   "name": "Lake Pichola",
+   "types": [
+    "natural_feature",
+    "tourist_attraction"
+   ],
+   "address": "Udaipur, Rajasthan 313001, India",
+   "lat": 24.572,
+   "lng": 73.679,
+   "rating": 4.6
+  },
+  "jag_mandir": {
+   "name": "Jag Mandir",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Lake Pichola, Udaipur, Rajasthan 313001, India",
+   "lat": 24.5672,
+   "lng": 73.6777,
+   "rating": 4.5
+  },
+  "sajjangarh": {
+   "name": "Sajjangarh Monsoon Palace",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Sajjangarh, Udaipur, Rajasthan 313001, India",
+   "lat": 24.5947,
+   "lng": 73.6363,
+   "rating": 4.4
+  },
+  "jagat_niwas": {
+   "name": "Jagat Niwas Palace",
+   "types": [
+    "hotel",
+    "lodging"
+   ],
+   "address": "Lal Ghat, Udaipur, Rajasthan 313001, India",
+   "lat": 24.5797,
+   "lng": 73.6833,
+   "rating": 4.3
+  },
+  "udr_airport": {
+   "name": "Maharana Pratap Airport",
+   "types": [
+    "airport"
+   ],
+   "address": "Dabok, Udaipur, Rajasthan 313603, India",
+   "lat": 24.6177,
+   "lng": 73.8961,
+   "rating": 4.3
+  },
+  "goi_airport": {
+   "name": "Goa International Airport",
+   "types": [
+    "airport"
+   ],
+   "address": "Dabolim, Goa 403801, India",
+   "lat": 15.3808,
+   "lng": 73.8314,
+   "rating": 4.2
+  },
+  "baga": {
+   "name": "Baga Beach",
+   "types": [
+    "beach",
+    "tourist_attraction"
+   ],
+   "address": "Baga, Calangute, Goa 403516, India",
+   "lat": 15.5553,
+   "lng": 73.7517,
+   "rating": 4.3
+  },
+  "aguada": {
+   "name": "Fort Aguada",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Candolim, Goa 403515, India",
+   "lat": 15.4925,
+   "lng": 73.7735,
+   "rating": 4.4
+  },
+  "bom_jesus": {
+   "name": "Basilica of Bom Jesus",
+   "types": [
+    "church",
+    "place_of_worship",
+    "tourist_attraction"
+   ],
+   "address": "Old Goa Rd, Bainguinim, Goa 403402, India",
+   "lat": 15.5009,
+   "lng": 73.9116,
+   "rating": 4.6
+  },
+  "brittos": {
+   "name": "Britto's",
+   "types": [
+    "restaurant",
+    "bar"
+   ],
+   "address": "Tito's Rd, Baga, Calangute, Goa 403516, India",
+   "lat": 15.556,
+   "lng": 73.7522,
+   "rating": 4.2
+  },
+  "taj_aguada": {
+   "name": "Taj Fort Aguada Resort",
+   "types": [
+    "resort_hotel",
+    "lodging"
+   ],
+   "address": "Sinquerim, Candolim, Goa 403515, India",
+   "lat": 15.4945,
+   "lng": 73.769,
+   "rating": 4.6
+  },
+  "palolem": {
+   "name": "Palolem Beach",
+   "types": [
+    "beach",
+    "tourist_attraction"
+   ],
+   "address": "Palolem, Canacona, Goa 403702, India",
+   "lat": 15.01,
+   "lng": 74.0232,
+   "rating": 4.5
+  },
+  "cok_airport": {
+   "name": "Cochin International Airport",
+   "types": [
+    "airport"
+   ],
+   "address": "Nedumbassery, Kochi, Kerala 683111, India",
+   "lat": 10.152,
+   "lng": 76.4019,
+   "rating": 4.5
+  },
+  "tea_museum": {
+   "name": "Tata Tea Museum",
+   "types": [
+    "museum",
+    "tourist_attraction"
+   ],
+   "address": "Nullatanni, Munnar, Kerala 685612, India",
+   "lat": 10.0889,
+   "lng": 77.0595,
+   "rating": 4.2
+  },
+  "eravikulam": {
+   "name": "Eravikulam National Park",
+   "types": [
+    "national_park",
+    "tourist_attraction"
+   ],
+   "address": "Munnar, Kerala 685612, India",
+   "lat": 10.196,
+   "lng": 77.088,
+   "rating": 4.5
+  },
+  "mattupetty": {
+   "name": "Mattupetty Dam",
+   "types": [
+    "tourist_attraction"
+   ],
+   "address": "Mattupetty, Munnar, Kerala 685616, India",
+   "lat": 10.106,
+   "lng": 77.124,
+   "rating": 4.3
+  },
+  "munnar_stay": {
+   "name": "Blanket Hotel & Spa",
+   "types": [
+    "hotel",
+    "lodging"
+   ],
+   "address": "Pallivasal, Munnar, Kerala 685565, India",
+   "lat": 10.035,
+   "lng": 77.052,
+   "rating": 4.6
+  },
+  "punnamada": {
+   "name": "Punnamada Lake",
+   "types": [
+    "natural_feature",
+    "tourist_attraction"
+   ],
+   "address": "Alappuzha, Kerala 688006, India",
+   "lat": 9.51,
+   "lng": 76.35,
+   "rating": 4.5
+  },
+  "houseboat": {
+   "name": "Lakes & Lagoons Houseboat",
+   "types": [
+    "lodging"
+   ],
+   "address": "Punnamada, Alappuzha, Kerala 688006, India",
+   "lat": 9.512,
+   "lng": 76.353,
+   "rating": 4.4
+  },
+  "fishing_nets": {
+   "name": "Chinese Fishing Nets",
+   "types": [
+    "tourist_attraction"
+   ],
+   "address": "Fort Kochi, Kochi, Kerala 682001, India",
+   "lat": 9.9686,
+   "lng": 76.2425,
+   "rating": 4.2
+  },
+  "mattancherry": {
+   "name": "Mattancherry Palace",
+   "types": [
+    "museum",
+    "historical_landmark"
+   ],
+   "address": "Mattancherry, Kochi, Kerala 682002, India",
+   "lat": 9.9583,
+   "lng": 76.2594,
+   "rating": 4.3
+  },
+  "kashi": {
+   "name": "Kashi Art Cafe",
+   "types": [
+    "cafe",
+    "art_gallery"
+   ],
+   "address": "Burgher St, Fort Kochi, Kochi, Kerala 682001, India",
+   "lat": 9.9655,
+   "lng": 76.2425,
+   "rating": 4.4
+  },
+  "kochi_stay": {
+   "name": "Brunton Boatyard",
+   "types": [
+    "hotel",
+    "lodging"
+   ],
+   "address": "Calvetty Rd, Fort Kochi, Kochi, Kerala 682001, India",
+   "lat": 9.966,
+   "lng": 76.244,
+   "rating": 4.6
+  },
+  "hyd_station": {
+   "name": "Hyderabad Deccan Station",
+   "types": [
+    "train_station"
+   ],
+   "address": "Nampally, Hyderabad, Telangana 500001, India",
+   "lat": 17.393,
+   "lng": 78.468,
+   "rating": 4.0
+  },
+  "charminar": {
+   "name": "Charminar",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Charminar Rd, Ghansi Bazaar, Hyderabad, Telangana 500002, India",
+   "lat": 17.3616,
+   "lng": 78.4747,
+   "rating": 4.5
+  },
+  "golconda": {
+   "name": "Golconda Fort",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Ibrahim Bagh, Hyderabad, Telangana 500008, India",
+   "lat": 17.3833,
+   "lng": 78.4011,
+   "rating": 4.5
+  },
+  "salar_jung": {
+   "name": "Salar Jung Museum",
+   "types": [
+    "museum",
+    "tourist_attraction"
+   ],
+   "address": "Darushifa, Hyderabad, Telangana 500002, India",
+   "lat": 17.3713,
+   "lng": 78.4804,
+   "rating": 4.5
+  },
+  "paradise": {
+   "name": "Paradise Biryani",
+   "types": [
+    "restaurant",
+    "food"
+   ],
+   "address": "MG Rd, Secunderabad, Hyderabad, Telangana 500003, India",
+   "lat": 17.4416,
+   "lng": 78.4983,
+   "rating": 4.1
+  },
+  "taj_krishna": {
+   "name": "Taj Krishna",
+   "types": [
+    "hotel",
+    "lodging"
+   ],
+   "address": "Banjara Hills, Hyderabad, Telangana 500034, India",
+   "lat": 17.414,
+   "lng": 78.45,
+   "rating": 4.5
+  },
+  "virupaksha": {
+   "name": "Virupaksha Temple",
+   "types": [
+    "hindu_temple",
+    "place_of_worship",
+    "tourist_attraction"
+   ],
+   "address": "Hampi, Karnataka 583239, India",
+   "lat": 15.335,
+   "lng": 76.46,
+   "rating": 4.7
+  },
+  "vittala": {
+   "name": "Vittala Temple",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Hampi, Karnataka 583221, India",
+   "lat": 15.3423,
+   "lng": 76.4747,
+   "rating": 4.8
+  },
+  "matanga": {
+   "name": "Matanga Hill",
+   "types": [
+    "hiking_area",
+    "tourist_attraction"
+   ],
+   "address": "Hampi, Karnataka 583239, India",
+   "lat": 15.333,
+   "lng": 76.465,
+   "rating": 4.7
+  },
+  "tb_dam": {
+   "name": "Tungabhadra Dam",
+   "types": [
+    "tourist_attraction"
+   ],
+   "address": "Hosapete, Karnataka 583225, India",
+   "lat": 15.269,
+   "lng": 76.336,
+   "rating": 4.3
+  },
+  "evolve_back": {
+   "name": "Evolve Back Hampi",
+   "types": [
+    "resort_hotel",
+    "lodging"
+   ],
+   "address": "Kamalapura, Hampi, Karnataka 583221, India",
+   "lat": 15.2847,
+   "lng": 76.4385,
+   "rating": 4.8
+  },
+  "del_airport": {
+   "name": "Indira Gandhi International Airport",
+   "types": [
+    "airport"
+   ],
+   "address": "New Delhi, Delhi 110037, India",
+   "lat": 28.5562,
+   "lng": 77.1,
+   "rating": 4.5
+  },
+  "red_fort": {
+   "name": "Red Fort",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi 110006, India",
+   "lat": 28.6562,
+   "lng": 77.241,
+   "rating": 4.5
+  },
+  "qutub": {
+   "name": "Qutub Minar",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Mehrauli, New Delhi, Delhi 110030, India",
+   "lat": 28.5245,
+   "lng": 77.1855,
+   "rating": 4.6
+  },
+  "india_gate": {
+   "name": "India Gate",
+   "types": [
+    "monument",
+    "tourist_attraction"
+   ],
+   "address": "Kartavya Path, New Delhi, Delhi 110001, India",
+   "lat": 28.6129,
+   "lng": 77.2295,
+   "rating": 4.6
+  },
+  "humayun": {
+   "name": "Humayun's Tomb",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Nizamuddin, New Delhi, Delhi 110013, India",
+   "lat": 28.5933,
+   "lng": 77.2507,
+   "rating": 4.6
+  },
+  "karims": {
+   "name": "Karim's",
+   "types": [
+    "restaurant",
+    "food"
+   ],
+   "address": "Gali Kababian, Jama Masjid, New Delhi, Delhi 110006, India",
+   "lat": 28.6497,
+   "lng": 77.2335,
+   "rating": 4.2
+  },
+  "imperial": {
+   "name": "The Imperial",
+   "types": [
+    "hotel",
+    "lodging"
+   ],
+   "address": "Janpath, Connaught Place, New Delhi, Delhi 110001, India",
+   "lat": 28.625,
+   "lng": 77.218,
+   "rating": 4.6
+  },
+  "taj_mahal": {
+   "name": "Taj Mahal",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Dharmapuri, Tajganj, Agra, Uttar Pradesh 282001, India",
+   "lat": 27.1751,
+   "lng": 78.0421,
+   "rating": 4.7
+  },
+  "agra_fort": {
+   "name": "Agra Fort",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Rakabganj, Agra, Uttar Pradesh 282003, India",
+   "lat": 27.1795,
+   "lng": 78.0211,
+   "rating": 4.5
+  },
+  "sin_airport": {
+   "name": "Singapore Changi Airport",
+   "types": [
+    "airport"
+   ],
+   "address": "Airport Blvd., Singapore 819643",
+   "lat": 1.3644,
+   "lng": 103.9915,
+   "rating": 4.7
+  },
+  "gardens_bay": {
+   "name": "Gardens by the Bay",
+   "types": [
+    "botanical_garden",
+    "tourist_attraction"
+   ],
+   "address": "18 Marina Gardens Dr, Singapore, Singapore 018953, Singapore",
+   "lat": 1.2816,
+   "lng": 103.8636,
+   "rating": 4.7
+  },
+  "mbs": {
+   "name": "Marina Bay Sands SkyPark",
+   "types": [
+    "observation_deck",
+    "tourist_attraction"
+   ],
+   "address": "10 Bayfront Ave, Singapore, Singapore 018956, Singapore",
+   "lat": 1.2834,
+   "lng": 103.8607,
+   "rating": 4.6
+  },
+  "uss": {
+   "name": "Universal Studios Singapore",
+   "types": [
+    "amusement_park",
+    "tourist_attraction"
+   ],
+   "address": "8 Sentosa Gateway, Sentosa, Singapore, Singapore 098269, Singapore",
+   "lat": 1.254,
+   "lng": 103.8238,
+   "rating": 4.6
+  },
+  "sg_zoo": {
+   "name": "Singapore Zoo",
+   "types": [
+    "zoo",
+    "tourist_attraction"
+   ],
+   "address": "80 Mandai Lake Rd, Mandai, Singapore, Singapore 729826, Singapore",
+   "lat": 1.4043,
+   "lng": 103.793,
+   "rating": 4.6
+  },
+  "lau_pa_sat": {
+   "name": "Lau Pa Sat",
+   "types": [
+    "restaurant",
+    "food"
+   ],
+   "address": "18 Raffles Quay, Downtown Core, Singapore, Singapore 048582, Singapore",
+   "lat": 1.2806,
+   "lng": 103.8504,
+   "rating": 4.3
+  },
+  "pickering": {
+   "name": "PARKROYAL COLLECTION Pickering",
+   "types": [
+    "hotel",
+    "lodging"
+   ],
+   "address": "3 Upper Pickering St, Chinatown, Singapore, Singapore 058289, Singapore",
+   "lat": 1.2858,
+   "lng": 103.8466,
+   "rating": 4.6
+  },
+  "edakkal": {
+   "name": "Edakkal Caves",
+   "types": [
+    "historical_landmark",
+    "tourist_attraction"
+   ],
+   "address": "Ambalavayal, Wayanad, Kerala 673593, India",
+   "lat": 11.6247,
+   "lng": 76.2355,
+   "rating": 4.4
+  },
+  "banasura": {
+   "name": "Banasura Sagar Dam",
+   "types": [
+    "tourist_attraction"
+   ],
+   "address": "Padinjarathara, Wayanad, Kerala 673575, India",
+   "lat": 11.67,
+   "lng": 75.958,
+   "rating": 4.4
+  },
+  "soochipara": {
+   "name": "Soochipara Falls",
+   "types": [
+    "tourist_attraction",
+    "natural_feature"
+   ],
+   "address": "Meppadi, Wayanad, Kerala 673577, India",
+   "lat": 11.5101,
+   "lng": 76.1634,
+   "rating": 4.3
+  },
+  "vythiri": {
+   "name": "Vythiri Village Resort",
+   "types": [
+    "resort_hotel",
+    "lodging"
+   ],
+   "address": "Vythiri, Wayanad, Kerala 673576, India",
+   "lat": 11.556,
+   "lng": 76.043,
+   "rating": 4.5
+  },
+  "promenade": {
+   "name": "Promenade Beach",
+   "types": [
+    "beach",
+    "tourist_attraction"
+   ],
+   "address": "Goubert Ave, White Town, Puducherry, Puducherry 605001, India",
+   "lat": 11.931,
+   "lng": 79.838,
+   "rating": 4.5
+  },
+  "auroville": {
+   "name": "Auroville Matrimandir",
+   "types": [
+    "place_of_worship",
+    "tourist_attraction"
+   ],
+   "address": "Auroville, Tamil Nadu 605101, India",
+   "lat": 12.0052,
+   "lng": 79.8069,
+   "rating": 4.6
+  },
+  "le_cafe": {
+   "name": "Le Cafe",
+   "types": [
+    "cafe",
+    "restaurant"
+   ],
+   "address": "Goubert Ave, White Town, Puducherry, Puducherry 605001, India",
+   "lat": 11.933,
+   "lng": 79.836,
+   "rating": 4.1
+  },
+  "palais_mahe": {
+   "name": "Palais de Mahe",
+   "types": [
+    "hotel",
+    "lodging"
+   ],
+   "address": "Rue de Bussy, White Town, Puducherry, Puducherry 605001, India",
+   "lat": 11.933,
+   "lng": 79.832,
+   "rating": 4.6
+  },
+  "ooty_garden": {
+   "name": "Government Botanical Garden, Ooty",
+   "types": [
+    "botanical_garden",
+    "park",
+    "tourist_attraction"
+   ],
+   "address": "Vannarapettai, Ooty, Tamil Nadu 643001, India",
+   "lat": 11.4182,
+   "lng": 76.7114,
+   "rating": 4.4
+  },
+  "ooty_lake": {
+   "name": "Ooty Lake",
+   "types": [
+    "natural_feature",
+    "tourist_attraction"
+   ],
+   "address": "Ooty, Tamil Nadu 643001, India",
+   "lat": 11.4075,
+   "lng": 76.693,
+   "rating": 4.0
+  },
+  "doddabetta": {
+   "name": "Doddabetta Peak",
+   "types": [
+    "observation_deck",
+    "tourist_attraction"
+   ],
+   "address": "Doddabetta, Ooty, Tamil Nadu 643002, India",
+   "lat": 11.4022,
+   "lng": 76.735,
+   "rating": 4.4
+  },
+  "ooty_rail": {
+   "name": "Nilgiri Mountain Railway",
+   "types": [
+    "train_station",
+    "tourist_attraction"
+   ],
+   "address": "Ooty, Tamil Nadu 643001, India",
+   "lat": 11.404,
+   "lng": 76.695,
+   "rating": 4.6
+  },
+  "savoy": {
+   "name": "Savoy - IHCL SeleQtions",
+   "types": [
+    "hotel",
+    "lodging"
+   ],
+   "address": "Sylks Rd, Ooty, Tamil Nadu 643001, India",
+   "lat": 11.414,
+   "lng": 76.702,
+   "rating": 4.5
+  },
+  "gone": {
+   "name": null,
+   "types": null,
+   "address": null,
+   "lat": 15.3,
+   "lng": 76.4,
+   "rating": null
+  }
+ },
+ "trips": [
+  {
+   "start": "2019-02-16",
+   "leave": "07:00",
+   "mode": "car",
+   "days": [
+    [
+     [
+      "shivanasamudra",
+      150
+     ],
+     [
+      "talakadu",
+      100
+     ]
+    ]
+   ],
+   "stays": []
+  },
+  {
+   "start": "2019-05-10",
+   "leave": "06:30",
+   "mode": "car",
+   "days": [
+    [
+     [
+      "golden_temple",
+      90
+     ],
+     [
+      "dubare",
+      120
+     ]
+    ],
+    [
+     [
+      "abbey",
+      90
+     ],
+     [
+      "rajas_seat",
+      75
+     ]
+    ],
+    [
+     [
+      "golden_temple",
+      40
+     ]
+    ]
+   ],
+   "stays": [
+    "coorg_stay",
+    "coorg_stay"
+   ]
+  },
+  {
+   "start": "2019-12-20",
+   "leave": "05:30",
+   "mode": "car",
+   "days": [
+    [
+     [
+      "blr_airport",
+      100
+     ],
+     [
+      "jai_airport",
+      30,
+      "flight"
+     ],
+     [
+      "hawa_mahal",
+      60
+     ],
+     [
+      "lmb",
+      70
+     ]
+    ],
+    [
+     [
+      "amber",
+      180
+     ],
+     [
+      "nahargarh",
+      120
+     ]
+    ],
+    [
+     [
+      "city_palace_jaipur",
+      150
+     ],
+     [
+      "jantar_mantar",
+      75
+     ],
+     [
+      "lmb",
+      60
+     ]
+    ],
+    [
+     [
+      "chittorgarh",
+      180
+     ]
+    ],
+    [
+     [
+      "city_palace_udaipur",
+      180
+     ],
+     [
+      "pichola",
+      90
+     ]
+    ],
+    [
+     [
+      "jag_mandir",
+      120
+     ],
+     [
+      "sajjangarh",
+      90
+     ]
+    ],
+    [
+     [
+      "pichola",
+      60
+     ]
+    ],
+    [
+     [
+      "udr_airport",
+      90
+     ],
+     [
+      "blr_airport",
+      30,
+      "flight"
+     ]
+    ]
+   ],
+   "stays": [
+    "samode",
+    "samode",
+    "samode",
+    "jagat_niwas",
+    "jagat_niwas",
+    "jagat_niwas",
+    "jagat_niwas"
+   ]
+  },
+  {
+   "start": "2020-02-14",
+   "leave": "06:00",
+   "mode": "car",
+   "days": [
+    [
+     [
+      "blr_airport",
+      90
+     ],
+     [
+      "goi_airport",
+      30,
+      "flight"
+     ],
+     [
+      "baga",
+      150
+     ],
+     [
+      "brittos",
+      90
+     ]
+    ],
+    [
+     [
+      "aguada",
+      120
+     ],
+     [
+      "baga",
+      180
+     ]
+    ],
+    [
+     [
+      "bom_jesus",
+      90
+     ],
+     [
+      "brittos",
+      80
+     ]
+    ],
+    [
+     [
+      "palolem",
+      240
+     ]
+    ],
+    [
+     [
+      "goi_airport",
+      90
+     ],
+     [
+      "blr_airport",
+      30,
+      "flight"
+     ]
+    ]
+   ],
+   "stays": [
+    "taj_aguada",
+    "taj_aguada",
+    "taj_aguada",
+    "taj_aguada"
+   ]
+  },
+  {
+   "start": "2021-11-12",
+   "leave": "07:30",
+   "mode": "car",
+   "days": [
+    [
+     [
+      "brindavan",
+      120
+     ],
+     [
+      "mysore_palace",
+      150
+     ],
+     [
+      "mylari",
+      60
+     ]
+    ],
+    [
+     [
+      "chamundi",
+      120
+     ],
+     [
+      "mysore_palace",
+      60
+     ]
+    ]
+   ],
+   "stays": [
+    "mysore_hotel"
+   ]
+  },
+  {
+   "start": "2022-04-08",
+   "leave": "05:00",
+   "mode": "car",
+   "days": [
+    [
+     [
+      "blr_airport",
+      90
+     ],
+     [
+      "cok_airport",
+      30,
+      "flight"
+     ],
+     [
+      "tea_museum",
+      90
+     ]
+    ],
+    [
+     [
+      "eravikulam",
+      180
+     ],
+     [
+      "mattupetty",
+      90
+     ]
+    ],
+    [
+     [
+      "punnamada",
+      240
+     ]
+    ],
+    [
+     [
+      "fishing_nets",
+      60
+     ],
+     [
+      "mattancherry",
+      90
+     ],
+     [
+      "kashi",
+      60
+     ]
+    ],
+    [
+     [
+      "fishing_nets",
+      45
+     ]
+    ],
+    [
+     [
+      "cok_airport",
+      90
+     ],
+     [
+      "blr_airport",
+      30,
+      "flight"
+     ]
+    ]
+   ],
+   "stays": [
+    "munnar_stay",
+    "munnar_stay",
+    "houseboat",
+    "kochi_stay",
+    "kochi_stay"
+   ]
+  },
+  {
+   "start": "2022-09-23",
+   "leave": "19:00",
+   "mode": "car",
+   "days": [
+    [
+     [
+      "blr_station",
+      45
+     ],
+     [
+      "hyd_station",
+      30,
+      "train"
+     ]
+    ],
+    [
+     [
+      "charminar",
+      90
+     ],
+     [
+      "salar_jung",
+      150
+     ],
+     [
+      "paradise",
+      75
+     ]
+    ],
+    [
+     [
+      "golconda",
+      180
+     ],
+     [
+      "hyd_station",
+      60
+     ],
+     [
+      "blr_station",
+      20,
+      "train"
+     ]
+    ]
+   ],
+   "stays": [
+    "taj_krishna",
+    "taj_krishna"
+   ]
+  },
+  {
+   "start": "2023-01-26",
+   "leave": "05:30",
+   "mode": "car",
+   "days": [
+    [
+     [
+      "tb_dam",
+      90
+     ],
+     [
+      "virupaksha",
+      90
+     ]
+    ],
+    [
+     [
+      "vittala",
+      180
+     ],
+     [
+      "matanga",
+      120
+     ]
+    ],
+    [
+     [
+      "virupaksha",
+      60
+     ],
+     [
+      "gone",
+      30
+     ]
+    ],
+    [
+     [
+      "tb_dam",
+      30
+     ]
+    ]
+   ],
+   "stays": [
+    "evolve_back",
+    "evolve_back",
+    "evolve_back"
+   ]
+  },
+  {
+   "start": "2023-10-19",
+   "leave": "05:30",
+   "mode": "car",
+   "days": [
+    [
+     [
+      "blr_airport",
+      90
+     ],
+     [
+      "del_airport",
+      30,
+      "flight"
+     ],
+     [
+      "india_gate",
+      60
+     ],
+     [
+      "karims",
+      75
+     ]
+    ],
+    [
+     [
+      "red_fort",
+      150
+     ],
+     [
+      "humayun",
+      120
+     ]
+    ],
+    [
+     [
+      "taj_mahal",
+      210
+     ],
+     [
+      "agra_fort",
+      120
+     ]
+    ],
+    [
+     [
+      "qutub",
+      120
+     ],
+     [
+      "india_gate",
+      45
+     ]
+    ],
+    [
+     [
+      "del_airport",
+      90
+     ],
+     [
+      "blr_airport",
+      30,
+      "flight"
+     ]
+    ]
+   ],
+   "stays": [
+    "imperial",
+    "imperial",
+    "imperial",
+    "imperial"
+   ]
+  },
+  {
+   "start": "2024-02-24",
+   "leave": "07:00",
+   "mode": "car",
+   "days": [
+    [
+     [
+      "mysore_palace",
+      150
+     ],
+     [
+      "mylari",
+      60
+     ],
+     [
+      "chamundi",
+      90
+     ]
+    ]
+   ],
+   "stays": []
+  },
+  {
+   "start": "2024-06-12",
+   "leave": "21:00",
+   "mode": "car",
+   "days": [
+    [
+     [
+      "blr_airport",
+      120
+     ],
+     [
+      "sin_airport",
+      45,
+      "flight"
+     ]
+    ],
+    [
+     [
+      "gardens_bay",
+      240
+     ],
+     [
+      "mbs",
+      120
+     ]
+    ],
+    [
+     [
+      "uss",
+      420
+     ]
+    ],
+    [
+     [
+      "sg_zoo",
+      300
+     ],
+     [
+      "lau_pa_sat",
+      90
+     ]
+    ],
+    [
+     [
+      "sin_airport",
+      120
+     ],
+     [
+      "blr_airport",
+      30,
+      "flight"
+     ]
+    ]
+   ],
+   "stays": [
+    "pickering",
+    "pickering",
+    "pickering",
+    "pickering"
+   ]
+  },
+  {
+   "start": "2025-01-17",
+   "leave": "05:30",
+   "mode": "car",
+   "days": [
+    [
+     [
+      "edakkal",
+      120
+     ],
+     [
+      "soochipara",
+      90
+     ]
+    ],
+    [
+     [
+      "banasura",
+      150
+     ]
+    ],
+    [
+     [
+      "edakkal",
+      30
+     ]
+    ]
+   ],
+   "stays": [
+    "vythiri",
+    "vythiri"
+   ]
+  },
+  {
+   "start": "2025-08-14",
+   "leave": "06:00",
+   "mode": "car",
+   "days": [
+    [
+     [
+      "promenade",
+      120
+     ],
+     [
+      "le_cafe",
+      75
+     ]
+    ],
+    [
+     [
+      "auroville",
+      180
+     ],
+     [
+      "promenade",
+      60
+     ]
+    ],
+    [
+     [
+      "le_cafe",
+      60
+     ],
+     [
+      "promenade",
+      60
+     ]
+    ],
+    [
+     [
+      "auroville",
+      45
+     ]
+    ]
+   ],
+   "stays": [
+    "palais_mahe",
+    "palais_mahe",
+    "palais_mahe"
+   ]
+  },
+  {
+   "start": "2026-03-06",
+   "leave": "05:30",
+   "mode": "car",
+   "days": [
+    [
+     [
+      "ooty_lake",
+      90
+     ],
+     [
+      "ooty_garden",
+      120
+     ]
+    ],
+    [
+     [
+      "doddabetta",
+      90
+     ],
+     [
+      "ooty_rail",
+      150
+     ]
+    ],
+    [
+     [
+      "ooty_garden",
+      45
+     ]
+    ]
+   ],
+   "stays": [
+    "savoy",
+    "savoy"
+   ]
+  },
+  {
+   "start": "2026-07-18",
+   "leave": "06:30",
+   "mode": "car",
+   "days": [
+    [
+     [
+      "shivanasamudra",
+      120
+     ],
+     [
+      "brindavan",
+      90
+     ]
+    ]
+   ],
+   "stays": []
+  }
+ ],
+ "singapore": [
+  "gardens_bay",
+  "lau_pa_sat",
+  "mbs",
+  "pickering",
+  "sg_zoo",
+  "sin_airport",
+  "uss"
+ ]
+}

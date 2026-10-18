@@ -1,0 +1,7 @@
+# Response headers for Cloudflare's static hosting (Vite copies this into dist/).
+# Build files under /assets have content hashes in their names, so they never change.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/*
+  X-Content-Type-Options: nosniff

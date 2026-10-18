@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Atlas</title>
+<meta name="description" content="Your travel history, rebuilt from your own Google Timeline, on your device">
+<meta name="theme-color" content="#13202e">
+<link rel="icon" type="image/svg+xml" href="./icons/atlas.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="./icons/favicon-32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="./icons/apple-touch-icon.png">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Atlas">
+<script>
+  // Apply a saved theme before first paint.
+  try { var t = localStorage.getItem("atlas-theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+</script>
+</head>
+<body>
+
+<div id="offline-banner" class="hidden" role="status">Offline: everything still works except maps and naming services</div>
+
+<header id="topbar">
+  <a class="brand" href="#/">
+    <span class="brand-mark"><img src="./icons/atlas-mark.svg" alt=""></span>
+    <span>Atlas</span>
+  </a>
+  <nav class="top-nav" aria-label="Main">
+    <a href="#/" data-nav="overview">Overview</a>
+    <a href="#/trips" data-nav="trips">Trips</a>
+    <a href="#/everyday" data-nav="everyday">Everyday</a>
+    <a href="#/map" data-nav="map">Map</a>
+    <a href="#/places" data-nav="places">Places</a>
+  </nav>
+  <div class="top-actions">
+    <button id="btn-install" class="icon-btn hidden" type="button" title="Install app" aria-label="Install app">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-4-4m4 4 4-4M5 21h14"/></svg>
+    </button>
+    <button id="btn-theme" class="icon-btn" type="button" title="Switch light/dark" aria-label="Switch light or dark theme">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z"/></svg>
+    </button>
+    <a id="btn-settings" class="icon-btn" href="#/settings" title="Settings" aria-label="Settings" data-nav="settings">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1Z"/></svg>
+    </a>
+  </div>
+</header>
+
+<main id="app">
+  <section id="view-welcome" class="view" data-view="welcome" aria-label="Welcome"></section>
+  <section id="view-setup" class="view" data-view="setup" aria-label="Set up"></section>
+  <section id="view-overview" class="view" data-view="overview" aria-label="Overview"></section>
+  <section id="view-trips" class="view" data-view="trips" aria-label="Trips"></section>
+  <section id="view-everyday" class="view" data-view="everyday" aria-label="Everyday"></section>
+  <section id="view-map" class="view view-full" data-view="map" aria-label="Map"></section>
+  <section id="view-places" class="view" data-view="places" aria-label="Places"></section>
+  <section id="view-settings" class="view" data-view="settings" aria-label="Settings"></section>
+</main>
+
+<nav id="bottom-nav" aria-label="Main">
+  <a href="#/" data-nav="overview">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 13h8V3H3zM13 21h8V11h-8zM3 21h8v-6H3zM13 3v6h8V3z"/></svg>
+    <span>Overview</span>
+  </a>
+  <a href="#/trips" data-nav="trips">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 7h18v13H3zM8 7V4h8v3"/></svg>
+    <span>Trips</span>
+  </a>
+  <a href="#/everyday" data-nav="everyday">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11.5 12 4l9 7.5M5 10v10h14V10"/></svg>
+    <span>Everyday</span>
+  </a>
+  <a href="#/map" data-nav="map">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6l6-3 6 3 6-3v15l-6 3-6-3-6 3zM9 3v15M15 6v15"/></svg>
+    <span>Map</span>
+  </a>
+  <a href="#/places" data-nav="places">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+    <span>Places</span>
+  </a>
+</nav>
+
+<div id="toast" role="status" aria-live="polite"></div>
+<div id="tooltip" role="tooltip"></div>
+
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>

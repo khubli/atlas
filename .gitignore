@@ -1,0 +1,28 @@
+# Secrets and local env
+.env
+.env.*
+.dev.vars
+
+# Personal location data: never commit an export, saved places or a backup.
+Timeline*.json
+location-history*.json
+Saved Places*.json
+Labeled places*.json
+takeout-*.zip
+*.atlas
+atlas-labels*.json
+
+# Generated / local tooling
+node_modules/
+dist/
+public/demo/
+tests/e2e/.fixtures/
+test-results/
+playwright-report/
+.wrangler/
+*.log
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
